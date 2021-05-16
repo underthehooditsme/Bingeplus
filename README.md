@@ -41,3 +41,13 @@ If Connection starts it triggers a python script to start a pravega server to ge
 This network can grow like a mesh.
 
 Thus,making each Client app a CDN reducing load on server and better utilization of resources.
+
+
+
+## Other Links
+
+Binge Plus SocketIO and NodeJs(Express) server:
+https://github.com/underthehooditsme/BingePlus_backend
+
+BingePlus-Streaming-Backend-Wrapper:
+https://github.com/coolpulkit99/BingePlus-Streaming-Backend-Wrapper
